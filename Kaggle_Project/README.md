@@ -1,3 +1,6 @@
 # Tabular Playground Series - Apr 2021
 
-![Tabular Playground Series - Apr 2021](https://user-images.githubusercontent.com/54093963/116872051-33b82780-ac50-11eb-838b-b89c7d09ac04.PNG)
+![](https://github.com/CHO111/Project/blob/main/Kaggle_Project/img/Tabular%20Playground%20Series%20-%20Apr%202021.PNG)
+
+# 콘테스트 개요
+
