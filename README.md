@@ -1,5 +1,5 @@
 # Project
-**Tabular Playground Series - Apr 2021**
+**Tabular Playground Series - Apr 2021(kaggle 대회)**
   * **언어 및 작업툴** : python, googole colab, kaggle notebook
   * **인원** : 6명
   * **기간** : 2021.04.01 ~ 2021.04.30
