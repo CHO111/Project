@@ -38,4 +38,4 @@
 [Kaggle에서 제출물보기](https://www.kaggle.com/chohyungkwon/pycaret-stacking-2)
 
 ## 대회 발표 자료 
-[깃허브 pdf 링크]{https://github.com/CHO111/Project/blob/main/Kaggle_Project/titanic_TeamProj_final.pdf}
+[깃허브 pdf 링크](https://github.com/CHO111/Project/blob/main/Kaggle_Project/titanic_TeamProj_final.pdf)
