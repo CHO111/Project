@@ -24,14 +24,12 @@
 * 파일에는 정확히 2 개의 열이 있어야합니다.
   * PassengerId (순서에 상관없이 정렬 됨)
   * Survived (이진 예측 포함 : 1은 생존, 0은 사망)
-<br/>
 
 **4. 상품**
  * 1st Place - Choice of Kaggle merchandise
  * 2nd Place - Choice of Kaggle merchandise
  * 3rd Place - Choice of Kaggle merchandise
-<br/>
-
+ * 
 **5. 참고**
  * 초보자의 더 많은 참여를 유도하기 위해 Kaggle 상품은이 시리즈에서 1 인당 한 번만 제공됩니다. 
  * 이전에 우승 한 사람이 있으면 다음 팀으로 건너 뜁니다.
