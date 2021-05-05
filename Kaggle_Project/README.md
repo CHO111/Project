@@ -29,7 +29,7 @@
  * 1st Place - Choice of Kaggle merchandise
  * 2nd Place - Choice of Kaggle merchandise
  * 3rd Place - Choice of Kaggle merchandise
- * 
+ 
 **5. 참고**
  * 초보자의 더 많은 참여를 유도하기 위해 Kaggle 상품은이 시리즈에서 1 인당 한 번만 제공됩니다. 
  * 이전에 우승 한 사람이 있으면 다음 팀으로 건너 뜁니다.
