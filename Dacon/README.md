@@ -1,6 +1,6 @@
 # 한국 부동산 데이터 시각화 경진대회
 
-![](https://user-images.githubusercontent.com/54093963/120945376-c9753400-c773-11eb-9d95-d1fec5fa0b6f.PNG)
+![](https://github.com/CHO111/Project/blob/main/Dacon/FILE/%EB%8D%B0%EC%9D%B4%EC%BD%98%20%EB%8C%80%ED%9A%8C%EB%AA%85.PNG)
 
 ## 콘테스트 개요
 
@@ -35,4 +35,4 @@
 [Dacon에서 제출물보기](https://dacon.io/competitions/official/235724/codeshare/2675)
 
 ## 대회 발표 자료 
-[pdf들어갈곳](https://dacon.io/competitions/official/235724/codeshare/2675)
+[pdf](https://github.com/CHO111/Project/blob/main/Dacon/FILE/%EB%8D%B0%EC%9D%B4%EC%BD%98-%EC%8B%9C%EA%B0%81%ED%99%94.pdf)
