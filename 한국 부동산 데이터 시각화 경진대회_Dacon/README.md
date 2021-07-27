@@ -33,7 +33,7 @@
 <br/>
 <br/>
 **6. 기여** : 시각화,  ppt 제작  
-**7. 결과** :  집계중
+**7. 결과** :  3등
 
 ## 시각화 자료
 [Dacon에서 제출물보기](https://dacon.io/competitions/official/235724/codeshare/2675)
