@@ -30,7 +30,6 @@
   * **기여** : xgboost 등 기법을 사용하여 정형 데이터 가공
   * **결과** : 714팀 중 404등 최종점수 - 0.70742
  
- # Project
 **👉Custom YoLov3(Team Study)**
   * **언어 및 작업툴** : python, pencv, YoLov3, labelimg, pyqt5
   * **인원** : 3명
