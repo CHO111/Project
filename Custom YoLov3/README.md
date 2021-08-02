@@ -13,5 +13,5 @@ qt로 틀을만들고 그안에 opencv로 기능을 구현하고 yolo를 custom�
 * custom yolo를 활용해 원하는학습을 시키고 학습을시킨 객체를 검출해보자
 <br/>
 
-**3. 기여** : custom yolo 모델 만들기, 이미지 라벨링, opencv코드 구현 
+**3. 기여** : custom yolo 모델 만들기, 이미지 라벨링, opencv코드 구현 <br/>
 **4. 결과** :  어설프지만 작동은 잘된다.
