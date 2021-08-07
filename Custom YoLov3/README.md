@@ -16,4 +16,4 @@ qt로 틀을만들고 그안에 opencv로 기능을 구현하고 yolo를 custom�
 **3. 기여** : custom yolo 모델 만들기, 이미지 라벨링, opencv코드 구현 <br/>
 **4. 결과** :  어설프지만 작동은 잘된다.
 
-[발표자료]()
+[발표자료](https://github.com/CHO111/Project/blob/main/Custom%20YoLov3/file/YOLOv3_teamProj_final.pdf)
